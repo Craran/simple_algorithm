@@ -8,7 +8,6 @@
 约数(divisor):若一整数a可被另一整数d整除, 则称d为a的一个约数(divisor)记作d|a
 
 对于两正整数a, b(a>b)存在一最大公约数(greatest common divisor)使得a, b可被其整除
-最大
 
 取a, b最大公约数记作gcd(a, b)
 
